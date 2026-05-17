@@ -1,30 +1,14 @@
-# Data files (too large for git)
-*.tsv
-*.csv
-*.zip
-
-# Python
+.gradio/
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-.venv/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS
+*.pyc
+*.pyo
+*.pyd
 .DS_Store
-Thumbs.db
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Logs
 *.log
+test.csv
+train.csv
+submission.csv
+sample_submission.csv
+*.png
+*.pdf
+*.md
