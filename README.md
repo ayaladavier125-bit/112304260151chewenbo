@@ -40,8 +40,8 @@
 
 请填写你最终提交到 Kaggle 的结果：
 
-- **Public Score**：待提交后填写
-- **Private Score**（如有）：待提交后填写
+- **Public Score**：0.95693
+- **Private Score**（如有）：0.95693
 - **排名**（如能看到可填写）：待填写
 
 ***
