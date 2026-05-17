@@ -50,10 +50,10 @@
 
 请在下方插入 Kaggle 提交结果截图，要求能清楚看到分数信息。
 
-![Kaggle截图](./images/kaggle_score.png)
+![Kaggle截图](./images/112304260151_车文博_kaggle_score.png)
 
-> 建议将截图保存在 `images` 文件夹中。\
-> 截图文件名示例：`2023123456_张三_kaggle_score.png`
+> 截图已保存在 `images` 文件夹中。\
+> 截图文件名：`112304260151_车文博_kaggle_score.png`
 
 ***
 
